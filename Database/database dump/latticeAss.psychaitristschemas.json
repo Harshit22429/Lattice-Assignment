@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "65b213be46016367441ae9e7"
+  },
+  "name": "Pitter",
+  "hospitalId": "AH",
+  "email": "pitter123@gmail.com",
+  "password": "$2a$10$WrZbvR6bqmMQqPS0T7vEWetfNLySk2iwwUETwu.mCwVD5QWEtqcOO",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b213d746016367441ae9e9"
+  },
+  "name": "Alex",
+  "hospitalId": "AH",
+  "email": "alex123@gmail.com",
+  "password": "$2a$10$fTEMfndm76dJ96Xa77lh6Oulf/4iehwl/.zpzJaKaQoMqPQ024G82",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b213ff46016367441ae9eb"
+  },
+  "name": "Ben",
+  "hospitalId": "AH",
+  "email": "ben123@gmail.com",
+  "password": "$2a$10$7YXPfjZ6/JWbLQjeWbwvHeOWNuKZj7FUaiiFcvHa11w2Nd0424q72",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2141046016367441ae9ed"
+  },
+  "name": "Chris",
+  "hospitalId": "AH",
+  "email": "chris123@gmail.com",
+  "password": "$2a$10$NxsJv1vXZ5FZXod/qo1XoO5D751c4YUI/5v9W6y.vgA1O8x9oB0s2",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2152f363506f40447c99a"
+  },
+  "name": "Dan",
+  "hospitalId": "AH",
+  "email": "dan123@gmail.com",
+  "password": "$2a$10$i1N9qmy4JGI/VP0Z93C00.GtoIzZGBYjp4kz3AJ7ji9y16vNTcELK",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b215c8f6c5d3796eb509bf"
+  },
+  "name": "Mia",
+  "hospitalId": "AIIMS",
+  "email": "mia123@gmail.com",
+  "password": "$2a$10$9VH0itzAoTvIHNO7HwJPM.PkKeHBN1ibR5ebJyshNU9l7AIfWe1xK",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b215e0f6c5d3796eb509c3"
+  },
+  "name": "Nate",
+  "hospitalId": "AIIMS",
+  "email": "nate123@gmail.com",
+  "password": "$2a$10$pFoLG4x6LXBwyeCMMxH0h.Bw5gng0rIKRLZn60NEMm6pDxnFTkuba",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b215eff6c5d3796eb509c5"
+  },
+  "name": "Ray",
+  "hospitalId": "AIIMS",
+  "email": "ray123@gmail.com",
+  "password": "$2a$10$B.4M2dW71hbM3MY9iQZoYOFJIG484Vl26J9meHZY7bBAx.D57.kae",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b215fff6c5d3796eb509c7"
+  },
+  "name": "Sam",
+  "hospitalId": "AIIMS",
+  "email": "sam123@gmail.com",
+  "password": "$2a$10$Aij2NdxsFz3It7NA9IKnKe23ecfnmgP/nkA6v2yd.t5niosmEuo6O",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21611f6c5d3796eb509c9"
+  },
+  "name": "Max",
+  "hospitalId": "AIIMS",
+  "email": "max123@gmail.com",
+  "password": "$2a$10$21z6bHc5M.xaNByft/YFsu54QgVq9xp8.ubxYMC04j.nDJZ.qeNtK",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21630f6c5d3796eb509cb"
+  },
+  "name": "Eve",
+  "hospitalId": "AIIMS",
+  "email": "Eve123@gmail.com",
+  "password": "$2a$10$JiPBLB2RUL3QrUrOcTJeieMUS0PO1dGDrTQsxmXDgOdT8mKsLjwpW",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21648f6c5d3796eb509cd"
+  },
+  "name": "Lee",
+  "hospitalId": "AIIMS",
+  "email": "lee123@gmail.com",
+  "password": "$2a$10$UZoElS5f80cBuA48SO043O0VYhHtz0wZz3CMSzBc/5sPfDtcW0D.G",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21657f6c5d3796eb509cf"
+  },
+  "name": "Roy",
+  "hospitalId": "AIIMS",
+  "email": "roy123@gmail.com",
+  "password": "$2a$10$q4z/Cc6LJv/mAtKT7w3JieEE1y47Ux05PrIKRXyhr05PkEypGHdM.",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2166ef6c5d3796eb509d1"
+  },
+  "name": "Neal",
+  "hospitalId": "IGIMS",
+  "email": "neal123@gmail.com",
+  "password": "$2a$10$ZbURSpLO98pWCiHGfzIUsOwzioiPpWmxuXYDAVZ6NBKDTZhy1Qoiy",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2167df6c5d3796eb509d3"
+  },
+  "name": "Lou",
+  "hospitalId": "IGIMS",
+  "email": "lou123@gmail.com",
+  "password": "$2a$10$Nn/PHHjf68IRftjqfY/oG.o2g1zWTwWdAwaQMvfAGJNJE5GERKhWG",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2168ef6c5d3796eb509d5"
+  },
+  "name": "Joy",
+  "hospitalId": "IGIMS",
+  "email": "joy123@gmail.com",
+  "password": "$2a$10$0IcjsFmYoTz/ai5OYFtMb.OCCPo4CLD4EWU4jg2vkUfENpSW7l.DW",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2169df6c5d3796eb509d7"
+  },
+  "name": "Gus",
+  "hospitalId": "IGIMS",
+  "email": "gus123@gmail.com",
+  "password": "$2a$10$urRvu/mNMNLaFiruGJr8mOlSqgBoPHYAjNYjgihe.UbNDt8Z/1Ttu",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216b0f6c5d3796eb509d9"
+  },
+  "name": "Reed",
+  "hospitalId": "IGIMS",
+  "email": "reed123@gmail.com",
+  "password": "$2a$10$qcdXK0.W95KyNXKHMqIhZesecWJ393JuXpRdqTQhBvBHaK.D0Z/bG",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216bef6c5d3796eb509db"
+  },
+  "name": "Lex",
+  "hospitalId": "IGIMS",
+  "email": "lex123@gmail.com",
+  "password": "$2a$10$s.hYoknLJ1vZE5Zh70Nbze7fsC.CQ5fNrClgucsAa55.UMqaNz2gy",
+  "patientCount": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216cdf6c5d3796eb509dd"
+  },
+  "name": "Drew",
+  "hospitalId": "IGIMS",
+  "email": "drew123@gmail.com",
+  "password": "$2a$10$GBE2CyhWSSsShUlp0rMqw.QJM27CdX9QL1z5rITLMpCZXxFpjKKQu",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216def6c5d3796eb509df"
+  },
+  "name": "Sal",
+  "hospitalId": "IGIMS",
+  "email": "sal123@gmail.com",
+  "password": "$2a$10$OsWAsLJsRN5xrglvXvevkusvWzmAlI3yI7o.dPbPNw3GIUwRpfvNG",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216edf6c5d3796eb509e1"
+  },
+  "name": "Meg",
+  "hospitalId": "IGIMS",
+  "email": "meg123@gmail.com",
+  "password": "$2a$10$7EouAfK0hnQfsAfX5uKKxuGx5MT6RYW3Yj4myL2CmZa2xHtE0d2yC",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b216fcf6c5d3796eb509e3"
+  },
+  "name": "Kit",
+  "hospitalId": "IGIMS",
+  "email": "kit123@gmail.com",
+  "password": "$2a$10$dJ/FggsCwOZ1U82t8hgtJeDW2GhhlN6u9u3RZx1v97flpEszvfHWi",
+  "patientCount": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21727f6c5d3796eb509e5"
+  },
+  "name": "Emily",
+  "hospitalId": "JNMCH",
+  "email": "emily123@gmail.com",
+  "password": "$2a$10$W9oTLNn7HnEonpfgS9GlGuxbBLVkOn1GfAh5vEFLzMomDWEEx9mhG",
+  "patientCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21741f6c5d3796eb509e7"
+  },
+  "name": "Mathew",
+  "hospitalId": "JNMCH",
+  "email": "mathew123@gmail.com",
+  "password": "$2a$10$2RgpKMFMH/rwmYHCz3DCbOcj7LtTCdUozMltvr.8EzEmJH9CQRr3W",
+  "patientCount": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21753f6c5d3796eb509e9"
+  },
+  "name": "Wmma",
+  "hospitalId": "JNMCH",
+  "email": "wmma123@gmail.com",
+  "password": "$2a$10$fPWCs5DMFcJYKndeXkr6BeBLc0/mk3l27nai9iVtkd7Lhg6Xw83nu",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21766f6c5d3796eb509eb"
+  },
+  "name": "James",
+  "hospitalId": "JNMCH",
+  "email": "james123@gmail.com",
+  "password": "$2a$10$zApFcaBcUSzLNnVBPBrqJOBSi3TJunij5vPrOjggQlyZnmELhXjq.",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2177af6c5d3796eb509ed"
+  },
+  "name": "Madison",
+  "hospitalId": "JNMCH",
+  "email": "madison123@gmail.com",
+  "password": "$2a$10$oPT8MTnWeI052harX1UsFOaRnN9XO6gB6zqZvlddG.IZSyCMEpFy.",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2178cf6c5d3796eb509ef"
+  },
+  "name": "Olivia",
+  "hospitalId": "JNMCH",
+  "email": "olivia123@gmail.com",
+  "password": "$2a$10$9JC41ogq8FcX6WEtzmRTn.6WpBhrgxzg5cQIOzlEZg/sJFY19ef26",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b217a3f6c5d3796eb509f1"
+  },
+  "name": "Franchasico",
+  "hospitalId": "JNMCH",
+  "email": "franchasico123@gmail.com",
+  "password": "$2a$10$OO9C92SuWK6h0hrwHdwyO.yL8qNnZWt0t8zqPF3IRj/D.r9m69rK2",
+  "patientCount": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b217b3f6c5d3796eb509f3"
+  },
+  "name": "Sophia",
+  "hospitalId": "JNMCH",
+  "email": "sophia123@gmail.com",
+  "password": "$2a$10$Cj8lBe8hJY2pKTUHz9izIeWk6fDO2hCokpA0aReeE.XP5YLUjDe56",
+  "patientCount": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b217c5f6c5d3796eb509f5"
+  },
+  "name": "Daniel",
+  "hospitalId": "JNMCH",
+  "email": "daniel123@gmail.com",
+  "password": "$2a$10$1Orci4QNUb5GFSH0qBIm9.y1zK8LxSlx8tE.VsivtNDhxnSGgYzOO",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21b6d4206145d303367dc"
+  },
+  "name": "Jhon",
+  "hospitalId": "AH",
+  "email": "jhon123@gmail.com",
+  "password": "$2a$10$1lem2QZ9bzT2y3NUQq/Kh.kBib9ae8FnaYaDvTRQDY2r/FtD8cOGu",
+  "patientCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b21b994206145d303367e0"
+  },
+  "name": "Jhonl",
+  "hospitalId": "AH",
+  "email": "jhonl123@gmail.com",
+  "password": "$2a$10$1z4Nq0OcRmzaVzcVladLH.eU3UjdVD/CG6HrFUPQbMG1WcrMfwQr6",
+  "patientCount": 3,
+  "__v": 0
+}]

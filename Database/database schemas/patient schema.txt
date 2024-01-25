@@ -1,0 +1,38 @@
+patientSchema = 
+    {  
+        name:{
+            type:String,
+            required:true
+        },
+        address:{
+            type:String,
+            required:true
+        },
+        email:{
+            type:String,
+            required:true,
+            unique:true
+        },
+        phone:{
+            type:Number,
+            required:true
+        },
+        password:{
+            type:String,
+            required:true
+        },
+        photo:{
+            type:Buffer,
+        }
+    }
+
+
+Value = {
+    "name": "abc",
+    "address": "abc address live",
+    "email": "abc123@gmail.com",
+    "phone": 1000000000,
+    "password": "Abc@1234"
+}
+
+

@@ -1,0 +1,85 @@
+psychiatristSchema = {
+    // name, hospitalId, email, password, patientCount
+    name:{
+        type:String,
+        required:true
+    },
+    hospitalId:{
+        type:String,
+        required:true
+    },
+    email:{
+        type: String,
+        required: true,
+        unique: true
+    },
+    password:{
+        type:String,
+        required:true
+    },
+    patientCount:{
+        type:Number,
+        required:true,
+        default:0,
+    }
+}
+
+
+
+values = [     // password is formatted as : <name>@123    and name in lowercase
+    {
+        "_id": {
+            "$oid": "65b213be46016367441ae9e7"
+        },
+        "name": "Pitter",
+        "hospitalId": "AH",
+        "email": "pitter123@gmail.com",
+        "password": "$2a$10$WrZbvR6bqmMQqPS0T7vEWetfNLySk2iwwUETwu.mCwVD5QWEtqcOO",
+        "patientCount": 2,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "65b213d746016367441ae9e9"
+        },
+        "name": "Alex",
+        "hospitalId": "AH",
+        "email": "alex123@gmail.com",
+        "password": "$2a$10$fTEMfndm76dJ96Xa77lh6Oulf/4iehwl/.zpzJaKaQoMqPQ024G82",
+        "patientCount": 2,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "65b213ff46016367441ae9eb"
+        },
+        "name": "Ben",
+        "hospitalId": "AH",
+        "email": "ben123@gmail.com",
+        "password": "$2a$10$7YXPfjZ6/JWbLQjeWbwvHeOWNuKZj7FUaiiFcvHa11w2Nd0424q72",
+        "patientCount": 2,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "65b2141046016367441ae9ed"
+        },
+        "name": "Chris",
+        "hospitalId": "AH",
+        "email": "chris123@gmail.com",
+        "password": "$2a$10$NxsJv1vXZ5FZXod/qo1XoO5D751c4YUI/5v9W6y.vgA1O8x9oB0s2",
+        "patientCount": 2,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "65b2152f363506f40447c99a"
+        },
+        "name": "Dan",
+        "hospitalId": "AH",
+        "email": "dan123@gmail.com",
+        "password": "$2a$10$i1N9qmy4JGI/VP0Z93C00.GtoIzZGBYjp4kz3AJ7ji9y16vNTcELK",
+        "patientCount": 2,
+        "__v": 0
+    },
+]
